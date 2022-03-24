@@ -9,3 +9,19 @@ I'm 22 years old. I'm intrested in design, photography and web-development. Now 
 * __Telegram:__ @defactokuro
 * __Discord:__ Adele_Wood(@enoughtsun)
 * __github__: [enoughtsun](https://github.com/enoughtsun)
+## Skills:
+* HTML/CSS
+* JavaScript (basic)
+* Git, GitHub
+* Adobe Photoshop, Illustrator
+* Figma
+
+## Code example:
+ **Multiply KATA from CODEWARS**:  _This code does not execute properly. Try to figure out why._
+ ```
+ function multiply(a, b){
+  return a * b
+}
+multiply(4, 9)
+ ```
+
