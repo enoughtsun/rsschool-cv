@@ -24,4 +24,16 @@ I'm 22 years old. I'm intrested in design, photography and web-development. Now 
 }
 multiply(4, 9)
  ```
+## Education:
+* __University__:
+	*  Satbayev University / Architecture (2017-21)
+* __Courses__: 
+	* [HTML / CSS ( Code-basics )](https://ru.code-basics.com/languages/html)
+	* [JavaScript](https://learn.javascript.ru/)
+	* RS Schools «JavaScript/Front-end. Stage 1» (in progress)
 
+## Languages:
+* English - B2 / Upper-Intermediate
+ [The official EF SET Certificate™ | Adel Vahitova](https://efset.org/cert/hHjbjj) 
+ * Russian - Native 
+ * Kazakh - Basic
