@@ -8,7 +8,8 @@ I'm 22 years old. I'm intrested in design, photography and web-development. Now 
 * __Email:__ adelvahitova@yandex.kz
 * __Telegram:__ @defactokuro
 * __Discord:__ Adele_Wood(@enoughtsun)
-* __github__: [enoughtsun](https://github.com/enoughtsun)
+* __Github__: [enoughtsun](https://github.com/enoughtsun)
+
 ## Skills:
 * HTML/CSS
 * JavaScript (basic)
